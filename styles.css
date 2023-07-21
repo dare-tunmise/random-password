@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    padding: 10px 20px;
+    outline: none;
+    background: none;
+    background-color: red;
+    border-radius: 10px;
+    
+
+}
+
+
+
